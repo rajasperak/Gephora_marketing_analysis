@@ -92,8 +92,8 @@ Compare la valeur vie client (LTV) au coût d’acquisition (CAC) pour évaluer 
 
 🧮 Métriques clés
 Indicateur	Description	Objectif
-CAC	Coût moyen pour acquérir un client	Réduire
-LTV	Revenu généré par client sur sa durée de vie	Augmenter
-ROAS	Retour sur investissement publicitaire	> 3 idéalement
-ROI	Rentabilité globale	Maximiser
-Rétention	Fidélité des clients	Améliorer
+- CAC	Coût moyen pour acquérir un client	Réduire
+- LTV	Revenu généré par client sur sa durée de vie	Augmenter
+- ROAS	Retour sur investissement publicitaire	> 3 idéalement
+- ROI	Rentabilité globale	Maximiser
+- Rétention	Fidélité des clients	Améliorer
